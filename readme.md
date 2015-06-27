@@ -1,0 +1,1 @@
+Para trabalhar o plugin, basta meclar este repositorio a raiz do opencart, para fazer um package, execute o `payu.command` e ele gerará um zip contendo apenas os arquivos relativos ao plugin.
